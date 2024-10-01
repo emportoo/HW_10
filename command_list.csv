@@ -1,0 +1,73 @@
+    1  git
+    2  git clone
+    3  git clone HW_10 odev2
+    4  git clone HW_10
+    5  git init
+    6  clone HW_10
+    7  git config
+"    8  git config --global user.email ""emrespm@gmail.com"""
+"    9  git config --global user.email ""emportoo"""
+   10  git commit
+   11  git add
+   12  git add .
+   13  git commit
+   14  d..
+   15  cd..
+   16  cd ..
+   17  cd odev10
+   18  dir
+   19  git satatus
+   20  git status
+"   21   git --config global user.name ""emportoo"""
+"   22   git config --global user.name ""emportoo"""
+   23  git clone https://github.com/emportoo/HW_10.git
+   24   cd HW_10
+   25  touch text_ignore.txt
+   26  git status
+   27  git add .
+   28  git commit
+   29  gir branch
+   30  git branch
+   31  cd odev10
+   32  cd desktop
+   33  cd odev10
+   34  cd HW_10
+   35  git branch
+   36  git satatus
+   37  git status
+   38  git add .
+"   39  git commit -m ""odev gorevi yapildi"""
+   40  git add .
+"   41  commit -m ""odev gorev 2 yapildi"""
+"   42  git commit -m ""odev gorev 2 yapildi"""
+   43  git clone https://github.com/emportoo/HW_10.git
+   44  git add .
+   45  git push
+   46  it branch
+   47   git branch develop
+   48  git branch
+   49  checkout
+   50  git branch chekout develop
+   51  branch
+   52  branch
+   53  git branch
+   54  git branch -d chekout
+   55  git branch
+   56  git checkout develop
+   57  branch
+   58  git branch
+   59  git touch develop_test.txt
+   60  touch develop_test.txt
+   61  git add .
+"   62  git commit -m ""odev gorev 3 yapildi"""
+   63  git status
+   64  git add .
+"   65  git commit -m ""odev gorev 3 yapildi"""
+   66  checkout main
+   67  git branch
+   68  git checkout main
+   69  git merge develop
+   70  git log
+   71  git BASH history > command_list.csv
+   72  history
+   73  history > command_list.csv
